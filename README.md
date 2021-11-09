@@ -11,3 +11,5 @@ Problems:
 * The fact that you have to type of every single thing that you want to do, and you die if you don't lowercase everything (use .lower() past me).
 * The fact that it's not finished.
 * and 10,000,000 more issues.
+
+Made with someone else who may or may not want to be named.
